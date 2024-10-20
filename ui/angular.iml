@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/angular">
+      <excludeFolder url="file://$MODULE_DIR$/angular/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/angular/tmp" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="a9a80b61-76a1-4d85-81ca-f99cd22db9c7" />
+  </component>
+</module>
